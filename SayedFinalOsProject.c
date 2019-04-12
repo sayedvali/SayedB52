@@ -2,7 +2,7 @@
 #include<string.h>
 struct process_Str {
     char process_name[15];
-    int A_T, B_T, C_T, remain_Time;
+    int A_T, B_T, C_T, remain_
 }temp_Str;
 void faculty_Queue(int number_of_process) {
     int c, A_T, B_T,Q_T;
